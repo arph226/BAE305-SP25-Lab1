@@ -1,6 +1,6 @@
-# Laboratory Report for Lab 1 of BAE305 Spring 2024
-# Lab 1 – Well-Equipped
-* By: Carlos Jarro and Anna Conda
+# Laboratory Report for Lab 1 of BAE305 Spring 2025
+# Lab 1 – Well Equipped: Knowing Your Instruments
+* By: Abby Phillips and Audrey Suit
 
 # Summary
 Lab goal; summary of work performed; summary of outcome
