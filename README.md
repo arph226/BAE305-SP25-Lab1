@@ -4,10 +4,9 @@
 
 # Summary
 Lab goal; summary of work performed; summary of outcome
-The goal of this lab is to learn ... and ... . We measured ..., ..., using ..., ..., and .... Finally, we created a repository in github to store the lab reports. This report is stored in this repository as a wiki.
+The goal of this lab is to learn how to use lab equipment including a function generator, digital multimeter, oscilloscope, and direct current power supply. We measured resistors and capacitors using the digital multimeter. We checked the voltage coming from the D.C. power supply with the digital multimeter to see how it aligned with the supposed output voltage. We connected a resistor to the function generator to produce a sine wave, then using the oscilloscope we observed the signal and measured the amplitude and frequency. Finally, we created a repository in github to store the lab reports. This report is stored in this repository as a wiki.
 
 # Materials
-List materials used in the lab (not the testing equipment, but that used to build the lab project)
 4 Resistors, 4 Capacitors
 
 # Assembly Procedures
