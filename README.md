@@ -64,23 +64,31 @@ This section deals with the method for obtaining your results. Make sure to be c
 The results obtained for step 1.1 of this lab are shown in the table below.
 
 **Resistor Values Table**
-|Expected Value (&Omega;)|Measured Value (&Omega;)|Within Tolerance|
-|----------|----------|----------|
-|100K|99.89K|Yes|
-|21|45|No|
-   
+|Color Code|Expected Value (&Omega;)|Tolerance(%)|Measured Value (&Omega;)|Within Tolerance|
+|----------|----------|----------|----------|----------|
+|Brown Black Blue|10M|5|10.25M|yes|
+|Orange Orange Red|3.3k|5|3.297k|yes|
+|Brown Green Brown|750|5|749.9|Yes|
+|Red Red Gold|2.2|5|2.3|yes|
+
 2. The results obtained for step 1.2 of this lab are shown in the table below.
 
 **Capacitor Values Table**
-|Expected Value (&mu;F)|Measured Value (&mu;F)|Within Tolerance|
-|----------|----------|----------|
-|1|1.05|Yes|
-|0.0002|0.032|No|
+|Expected Value (&mu;F)|Tolerance(%)|Measured Value (&mu;F)|Within Tolerance|
+|----------|----------|----------|----------|
+|10|20|10.44|Yes|
+|1|?|1.1|Yes|
+|102|10|1.34|?|
+|22|5|6.36|No|
 
 3. The code we wrote had several bugs but with some help we made it work. The values displayed for the sensor measurement were XX.XX for a physical distance of XX.XX
 
 # Discussion
 Answer every the lab questions in this section. You should do it within a written paragraph like the next one.
+
+DQ #1: Do the instruments agree with each other in part 3? Why?
+
+Discussion Question 2: Do the instruments agree in part 4 for the oscilliscope/function generator? Why?
 
 We were able to measure all the resistors and found out that only R5's value was not whithin the tolerance as shown in table X
 
