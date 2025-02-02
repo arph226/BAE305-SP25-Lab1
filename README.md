@@ -58,8 +58,7 @@ This section deals with the method for obtaining your results. Make sure to be c
   - Using the oscilloscope’s automatic measurement feature.
   - Using the DMM
  - We compared measured values to the function generator’s dial settings
-
-Adjust the frequency and amplitude of the waveform and observe changes on the oscilloscope and DMM.
+ - We adjusted frequency and amplitude of the waveform to observe changes
 
 # Test Results
 The results obtained for step 1.1 of this lab are shown in the table below.
