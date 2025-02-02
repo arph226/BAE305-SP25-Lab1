@@ -7,7 +7,7 @@ Lab goal; summary of work performed; summary of outcome
 The goal of this lab is to learn how to use lab equipment including a function generator, digital multimeter, oscilloscope, and direct current power supply. We measured resistors and capacitors using the digital multimeter. We checked the voltage coming from the D.C. power supply with the digital multimeter to see how it aligned with the supposed output voltage. We connected a resistor to the function generator to produce a sine wave, then using the oscilloscope we observed the signal and measured the amplitude and frequency. Finally, we created a repository in github to store the lab reports. This report is stored in this repository as a wiki.
 
 # Materials
-4 Resistors, 4 Capacitors
+4 different Resistors, 4 different Capacitors, 10k&Omega; resistor
 
 # Assembly Procedures
 Provide basic summary of steps performed in lab (**Do not copy and paste from lab assignment.**) The important part here is to provide detail that you had to develop in the lab which will be more important in later labs.
@@ -32,38 +32,35 @@ Or perhaps a nicer smaller, centered image like this (using html):
 1. Fluke 87 V DMM
 2. Oscilloscope Tektronix TS2012
 3. Function Generator
-4. Power Supply
+4. DC Power Supply
 
 # Test Procedures
 This section deals with the method for obtaining your results. Make sure to be clear and concise such that a student next year can replicate the laboratory. How did you test the system to get your results.
 * To measure the equivalent resistance we placed the DMM in terminal X of R1 and terminal X on R3.
 * To measure the capacitance of the capacitor we used the DMM in mode X.
+1. Measure and verify the resistance of various resistors.
+- Using the Fluke Digital Multimeter (DMM) in the DC resistance mode, we measured each resistor’s actual resistance by placing the DMM on each terminal of the resistor.
+- For each resistor, we record the color code, expected resistance, and calculated the tolerance limits.
+- We compared measured resistance with expected values and noted any deviations beyond tolerance.
+2. Measure and verify the capacitance of various capacitors.
+- We measured the capacitance of each provided capacitor using the Fluke DMM in DC capacitance mode.
+- We determined capacitance expected values by reading the values on each capacitor and using the letter chart to determine tolerance
+- Observed whether polarity affects the measurement of the electrolytic capacitor by changing the switching where the terminals of the DMM were connected on the capacitor.
+3. Measure and verify the voltage output of the DCPS.
+- We measured the voltage output of the DCPS by connecting the power supply leads to the respective voltage port we were measuring.
+- Using the DMM in DC Voltage mode, we measured voltage for the 3.3V, 5V, and 12V outputs and compared the results to the expected value.
+4. Measure and verify the function generator output
+- We connected a 10KΩ resistor to the output of the Function Generator and configured the FG to output a 2kHz sine wave at maximum amplitude.
+- We adjusted the Volts/DIV and SEC/DIV knobs on the oscilliscope to observe the wave
+- We measured the amplitude and frequency of the wave using four methods:
+  - Counting squares on the oscilloscope screen.
+  - Using the oscilloscope’s moveable cursors.
+  - Using the oscilloscope’s automatic measurement feature.
+  - Using the DMM
+ - We compared measured values to the function generator’s dial settings
 
-If your lab requires code then this sections should be the one that describes the code. Like this:
-```c++
-void recvWithEndMarker() {
-    static byte ndx = 0;
-    char endMarker = '\n';
-    char rc;
-    
-    while (mySerial.available() > 0 && newData == false) {
-        rc = mySerial.read();
+Adjust the frequency and amplitude of the waveform and observe changes on the oscilloscope and DMM.
 
-        if (rc != endMarker) {
-            receivedChars[ndx] = rc;
-            ndx++;
-            if (ndx >= numChars) {
-                ndx = numChars - 1;
-            }
-        }
-        else {
-            receivedChars[ndx] = '\0'; // terminate the string
-            ndx = 0;
-            newData = true;
-        }
-    }
-}
-```
 # Test Results
 The results obtained for step 1.1 of this lab are shown in the table below.
 
