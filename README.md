@@ -113,7 +113,5 @@ Did you make any design decisions that had an impact on the results? How did the
 Think about the lab exercises and make any interesting observation or analysis in this section too. Show that you learned something in this lab.
 
 # Conclusion
-Summarize what your aim was, what you did and what were the most important results. If you have any ideas or feedback about the lab you can propose them here (no complaints).
 
-In summary, we measured the resistance using the DMM we found out that most of the resistors fell within the tolerance.
-We also used a sensor and an Arduino controller to read a physical value. The error was acceptable/ too large. I think the resistance and capacitance measurements were long and repetitive, a better use of this time would have been to use the mathematical options of the oscilloscope.
+In summary, this lab aimed to incorporate commonly used circuit components and devices into a test procedure. We verified values for components like resistors and capacitors and devices like the Function Generator. By using many different tools, we are now familiarity with the usage and purpose of the Oscilloscope Tektronix TS2012, Fluke DMM, D.C. Power Supply, and Function Generator. The completion and learning attained by this lab will help us in future labs as we expand on the usage of these instruments with more complex projects and purposes.
