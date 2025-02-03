@@ -100,13 +100,22 @@ The results obtained for step 1.1 of this lab are shown in the table below.
 # Discussion
 Answer every the lab questions in this section. You should do it within a written paragraph like the next one.
 
-DQ #1: Do the instruments agree with each other in part 3? Why?
+2a-Do the instruments agree with the expected value?
+
+Yes, each capacitor value fell within the expected range for its capacitance.
+
+2b- Does polarity affect the measurement of the electrolytic capacitor?
+
+Polarity did not affect the measurement. If anything, it was a negligible amount that could be attributed to measurement error.
+
+Discussion Question 1: Do the instruments agree with each other in part 3? Why?
 
 They agreed with each other as the voltage output shown on the D.C. Power Supply's screen matched the measured value from the Fluke DMM. Thus, the Fluke DMM verified that the D.C. Power Supply was delivering its reported voltage.
 
 Discussion Question 2: Do the instruments agree in part 4 for the oscilliscope/function generator? Why?
 
-We were able to measure all the resistors and found out that only R5's value was not whithin the tolerance as shown in table X
+When measuring the amplitude and frequency, the instruments didn't produce the exact same values. However, the difference was so small, it could be counted as negligible and it can be determined that the values were more or less the same.
+
 
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
 
