@@ -16,10 +16,16 @@ You must include Schematics, Engineering Drawings, and Programming if appropriat
 1. Using the Fluke DMM, we measure the actual resistance of each resistor by attaching each lead to one side of the resistor via its alligator clips. We compare these values to the color code and expected resistance to see if the resistor falls within allowable values.
 2. Using the Fluke DMM, we measure the actual capacitance of each capacitor by attaching each lead to one side of the capacitor via its alligator clips. We compare these values to the labeled expected capacitance to see if the capacitor falls within the allowable tolerance.
 3. Using the D.C. Power Supply, we set the voltage to three different values: +1.5V, +7.0V and +12.0V. We also set the 3.3/5.0V and 12V outputs. For each voltage, we double checked the leads to the Fluke DMM and ensured the D.C. Power Supply was delivering the expected voltage.
-4. 
-- We set the temperature of the soldering iron to 700 &deg;C.
-- We tinned the soldering iron.
-- We made contact of the soldering iron, the component to be soldered, and some solder. Below is a picture.
+4. We mounted a 10k&Omega; resistor to the breadboard and connected it to the Function Generator by clipping the FG's cables to either side of the resistor. We set the FG to produce a 2kHz sine wave to the maximum amplitude supplied by the FG. 
+5. Using the Oscilloscope Tektronix TS2012, we looked at the signal and measured the amplitude and frequency of the sine wave using the following 4 strategies. 
+	a) We counted each square on the Oscilloscope Tektronix TS2012 screen to read the amplitude and frequency.
+	b) We used the moveable cursors on the Oscilloscope Tektronix TS2012 and placed them at a crest and trough of the wave and measured the amplitude. We changed the cursor orientation and placed them at two crests to measure the frequency.
+	c) We used the Oscilloscope Tektronix TS2012's measurement features to have the machine output the wave's amplitude and frequency values
+	d) We used the Fluke DMM and clipped its leads to each side of the resistor to read off the amplitude and frequency values.
+6. We set the Oscilloscope Tektronix TS2012 to various frequency and amplitude values of the generated sinusoidal wave and observed what occured in the Oscilloscope Tektronix TS2012 and the Fluke DMM.
+7. Using GitHub, we created our own accounts and we followed the tutorial "Hello World" to familiarize ourselves with its general pages and features. We ended the tutorial and created a repository titled "hello-world". 
+8. Using GitHub, we created a new public repository titled "BAE305-SP25-Lab 1" and clarified "initialize this repository with a READM" was selected.
+9. Using Github, we navigated to the Wiki tab and created our lab report using the wiki page and the provided lab report template for this class.
 
 ![A test image](https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg)
 
