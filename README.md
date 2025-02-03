@@ -8,23 +8,30 @@ The goal of this lab is to learn how to use lab equipment including a function g
 # Materials
 4 Resistors: (10M&Omega;, 3.3k&Omega;, 150&Omega;, 2.2&Omega;) 4 Capacitors (10 mF, 1mF, 1.02nF, 0.22 nF), 10k&Omega; resistor
 
+![image](https://github.com/user-attachments/assets/0286002a-d320-4795-852a-907021ab1572)
+
+
 # Assembly Procedures
 
 You must include Schematics, Engineering Drawings, and Programming if appropriate in this section.
 
 1. Using the Fluke DMM, we measure the actual resistance of each resistor by attaching each lead to one side of the resistor via its alligator clips. Using the resistor color code, we found the labeled resistance of each resistor.
-2. Using the Fluke DMM, we measure the actual capacitance of each capacitor by attaching each lead to one side of the capacitor via its alligator clips. 
-3. Using the D.C. Power Supply, we set the voltage to three different values: +1.5V, +7.0V and +12.0V. We also set the 3.3/5.0V and 12V outputs. To double check each voltage, we attached the leads of the D.C. Power Supply to the leads of the Fluke DMM.
-4. We mounted a 10k&Omega; resistor to the breadboard and connected it to the Function Generator by clipping the FG's cables to either side of the resistor. We set the FG to produce a 2kHz sine wave to the maximum amplitude supplied by the FG using its amplitude dial.
-5. Using the Oscilloscope Tektronix TS2012, we looked at the signal by attaching its leads to each side of the resistor.
+![image](https://github.com/user-attachments/assets/e0337021-37bb-46b8-a0fe-ba46322ba3dc)
+4. Using the Fluke DMM, we measure the actual capacitance of each capacitor by attaching each lead to one side of the capacitor via its alligator clips, in the same way as the resistors.
+6. Using the D.C. Power Supply, we set the voltage to three different values: +1.5V, +7.0V and +12.0V. We also set the 3.3/5.0V and 12V outputs. To double check each voltage, we attached the leads of the D.C. Power Supply to the leads of the Fluke DMM.
+   ![image](https://github.com/user-attachments/assets/4c5b2a6c-67f1-4907-bfca-9a8b81eb3900)
+8. We mounted a 10k&Omega; resistor to the breadboard and connected it to the Function Generator by clipping the FG's cables to either side of the resistor. We set the FG to produce a 2kHz sine wave to the maximum amplitude supplied by the FG using its amplitude dial.
+9. Using the Oscilloscope Tektronix TS2012, we looked at the signal by attaching its leads to each side of the resistor.
+    ![image](https://github.com/user-attachments/assets/640ec8e8-cb27-42f6-867c-91b89974aef6)
 	a) We counted each square on the Oscilloscope Tektronix TS2012 screen to read the amplitude and frequency.
 	b) We used the moveable cursors on the Oscilloscope Tektronix TS2012 and placed them at a crest and trough of the wave and measured the amplitude. We changed the cursor orientation and placed them at two crests to measure the frequency.
 	c) We used the Oscilloscope Tektronix TS2012's measurement features to have the machine output the wave's amplitude and frequency values
 	d) We used the Fluke DMM and clipped its leads to each side of the resistor to read off the amplitude and frequency values.
-6. We set the Oscilloscope Tektronix TS2012 to various frequency and amplitude values by rotating the frequency and amplitude dials of the Function Generator.
-7. Using GitHub, we created our own accounts and we followed the tutorial "Hello World" to familiarize ourselves with its general pages and features. We ended the tutorial and created a repository titled "hello-world". 
-8. Using GitHub, we created a new public repository titled "BAE305-SP25-Lab 1" and clarified "initialize this repository with a READM" was selected.
-9. Using Github, we navigated to the Wiki tab and created our lab report using the wiki page and the provided lab report template for this class.
+![image](https://github.com/user-attachments/assets/852aac3b-bd1e-4d0e-affd-f1b958be28ac)
+11. We set the Oscilloscope Tektronix TS2012 to various frequency and amplitude values by rotating the frequency and amplitude dials of the Function Generator.
+12. Using GitHub, we created our own accounts and we followed the tutorial "Hello World" to familiarize ourselves with its general pages and features. We ended the tutorial and created a repository titled "hello-world". 
+13. Using GitHub, we created a new public repository titled "BAE305-SP25-Lab 1" and clarified "initialize this repository with a READM" was selected.
+14. Using Github, we navigated to the Wiki tab and created our lab report using the wiki page and the provided lab report template for this class.
 
 ![A test image](https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg)
 
