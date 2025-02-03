@@ -27,6 +27,7 @@ You must include Schematics, Engineering Drawings, and Programming if appropriat
 	b) We used the moveable cursors on the Oscilloscope Tektronix TS2012 and placed them at a crest and trough of the wave and measured the amplitude. We changed the cursor orientation and placed them at two crests to measure the frequency.
 	c) We used the Oscilloscope Tektronix TS2012's measurement features to have the machine output the wave's amplitude and frequency values
 	d) We used the Fluke DMM and clipped its leads to each side of the resistor to read off the amplitude and frequency values.
+![image](https://github.com/user-attachments/assets/fcfae7b9-c87d-4db5-8fc4-18fd24f46ffc)
 11. We set the Oscilloscope Tektronix TS2012 to various frequency and amplitude values by rotating the frequency and amplitude dials of the Function Generator.
 12. Using GitHub, we created our own accounts and we followed the tutorial "Hello World" to familiarize ourselves with its general pages and features. We ended the tutorial and created a repository titled "hello-world". 
 13. Using GitHub, we created a new public repository titled "BAE305-SP25-Lab 1" and clarified "initialize this repository with a READM" was selected.
