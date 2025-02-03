@@ -3,14 +3,13 @@
 * By: Abby Phillips and Audrey Suit
 
 # Summary
-Lab goal; summary of work performed; summary of outcome
-The goal of this lab is to learn how to use lab equipment including a function generator, digital multimeter, oscilloscope, and direct current power supply. We measured resistors and capacitors using the digital multimeter. We checked the voltage coming from the D.C. power supply with the digital multimeter to see how it aligned with the supposed output voltage. We connected a resistor to the function generator to produce a sine wave, then using the oscilloscope we observed the signal and measured the amplitude and frequency. Finally, we created a repository in github to store the lab reports. This report is stored in this repository as a wiki.
+The goal of this lab is to learn how to use lab equipment including a function generator, digital multimeter, oscilloscope, and direct current power supply. We measured resistors and capacitors using the digital multimeter. We checked the voltage coming from the D.C. power supply with the digital multimeter to see how it aligned with the supposed output voltage. We connected a resistor to the function generator to produce a sine wave, then using the oscilloscope we observed the signal and measured the amplitude and frequency. Finally, we created a repository in github to store the lab reports. This report is stored in this repository as a wiki. Our group is certainly more familiar and accustomed to the lab equipment as a result of this lab period.
 
 # Materials
-4 Resistors: (Brown Black Blue Gold, Orange Orange Red Gold, Brown Green Brown Gold, and Red Red Gold Gold,) 4 different Capacitors (10 mF, 1mF, 1.02nF, 0.22 nF), 10k&Omega; resistor
+4 Resistors: (10M&Omega;, 3.3k&Omega;, 150&Omega;, 2.2&Omega;) 4 Capacitors (10 mF, 1mF, 1.02nF, 0.22 nF), 10k&Omega; resistor
 
 # Assembly Procedures
-Provide basic summary of steps performed in lab (**Do not copy and paste from lab assignment.**) The important part here is to provide detail that you had to develop in the lab which will be more important in later labs.
+
 You must include Schematics, Engineering Drawings, and Programming if appropriate in this section.
 
 1. Using the Fluke DMM, we measure the actual resistance of each resistor by attaching each lead to one side of the resistor via its alligator clips. Using the resistor color code, we found the labeled resistance of each resistor.
