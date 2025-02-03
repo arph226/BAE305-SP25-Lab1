@@ -19,7 +19,7 @@ You must include Schematics, Engineering Drawings, and Programming if appropriat
 ![image](https://github.com/user-attachments/assets/e0337021-37bb-46b8-a0fe-ba46322ba3dc)
 4. Using the Fluke DMM, we measure the actual capacitance of each capacitor by attaching each lead to one side of the capacitor via its alligator clips, in the same way as the resistors.
 6. Using the D.C. Power Supply, we set the voltage to three different values: +1.5V, +7.0V and +12.0V. We also set the 3.3/5.0V and 12V outputs. To double check each voltage, we attached the leads of the D.C. Power Supply to the leads of the Fluke DMM.
-   ![image](https://github.com/user-attachments/assets/4c5b2a6c-67f1-4907-bfca-9a8b81eb3900)
+![image](https://github.com/user-attachments/assets/0a378cdb-018d-49af-b115-c81c60ab78a4)
 8. We mounted a 10k&Omega; resistor to the breadboard and connected it to the Function Generator by clipping the FG's cables to either side of the resistor. We set the FG to produce a 2kHz sine wave to the maximum amplitude supplied by the FG using its amplitude dial.
 9. Using the Oscilloscope Tektronix TS2012, we looked at the signal by attaching its leads to each side of the resistor.
     ![image](https://github.com/user-attachments/assets/640ec8e8-cb27-42f6-867c-91b89974aef6)
