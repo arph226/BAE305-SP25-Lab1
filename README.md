@@ -51,7 +51,7 @@ This section deals with the method for obtaining your results. Make sure to be c
 2. Measure and verify the capacitance of various capacitors.
 - We measured the capacitance of each provided capacitor using the Fluke DMM in DC capacitance mode.
 - We determined capacitance expected values by reading the values on each capacitor and using the letter chart to determine tolerance
-- Observed whether polarity affects the measurement of the electrolytic capacitor by changing the switching where the terminals of the DMM were connected on the capacitor.
+- Observed whether polarity affects the measurement of the electrolytic capacitor by changing where the terminals of the DMM were connected on the capacitor (switching -/+).
 3. Measure and verify the voltage output of the DCPS.
 - We measured the voltage output of the DCPS by connecting the power supply leads to the respective voltage port we were measuring.
 - Using the DMM in DC Voltage mode, we measured voltage for the 3.3V, 5V, and 12V outputs and compared the results to the expected value.
@@ -64,7 +64,7 @@ This section deals with the method for obtaining your results. Make sure to be c
   - Using the oscilloscope’s automatic measurement feature.
   - Using the DMM
  - We compared measured values to the function generator’s dial settings
- - We adjusted frequency and amplitude of the waveform to observe changes
+ - We adjusted frequency and amplitude of the waveform using the function generator to observe changes in each value through the oscilloscope wave produced.
 
 # Test Results
 The results obtained for step 1 of the Test Procedures are shown in the table below. All resistors were found to be in tolerance
@@ -112,11 +112,11 @@ The results obtained for step 4 of the Test Procedures are shown in the table be
 
 2a-Do the instruments agree with the expected value?
 
-Yes, each capacitor value fell within the expected range for its capacitance.
+Each capacitor value fell within the expected range for its capacitance, except for capacitor 4 which was out of range. This could be due to an innacurate reading of the capacitance, a damaged capacitor, or errors in DMM measurement. All resistance values fell within tolerance.
 
 2b- Does polarity affect the measurement of the electrolytic capacitor?
 
-Polarity did not affect the measurement. If anything, it was a negligible amount that could be attributed to measurement error.
+Polarity did not affect the measurement. If anything, it was a negligible amount that could be attributed to measurement error. This indicates that the capacitors were likely non-polarized since we could connect the DMM leads in either direction with no affect on the result.
 
 Discussion Question 1: Do the instruments agree with each other in part 3? Why?
 
@@ -124,8 +124,9 @@ They agreed with each other as the voltage output shown on the D.C. Power Supply
 
 Discussion Question 2: Do the instruments agree in part 4 for the oscilliscope/function generator? Why?
 
-When measuring the amplitude and frequency, the instruments didn't produce the exact same values. However, the difference was so small, it could be counted as negligible and it can be determined that the values were more or less the same. As we increased the frequency values, the amplitude of the sine wave decreased, when it should have remained the same since the voltage source did not change.
+When measuring the amplitude and frequency, the instruments didn't produce the exact same values. However, the difference was so small, it could be counted as negligible and it can be determined that the values were more or less the same. The only measurable difference was in the DMM amplitude reading, which was innacurate since it cannot depict a sine wave. Additionally, as we increased the frequency values, the amplitude of the sine wave decreased, when it should have remained the same since the voltage source did not change.
 
+In addition to the discussion questions, we learned the importance of identifying and connecting the right ports when using the Fluke DMM and testing resistance and capacitance values. This is important so the correct values are being measured, and so you do not damage any of the equipment by short circuiting it. Safety is essential, so we must be aware of the circuits we are creating and how they are connected. Finally, measuring equipment can be prone to error, so it is important to check and verify results using multiple, or the most precise methods.
 
 # Conclusion
 
