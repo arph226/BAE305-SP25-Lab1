@@ -92,8 +92,8 @@ The results obtained for step 2 of the Test Procedures are shown in the table be
 |Expected Value (&mu;F)|Tolerance(%)|Measured Value (&mu;F)|Within Tolerance|
 |----------|----------|----------|----------|
 |10|20|10.44|Yes|
-|1|?|1.1|Yes|
-|102|10|1.34|?|
+|1|10|1.1|Yes|
+|102|10|1.34|No|
 |22|5|6.36|No|
 
 The results obtained for step 3 of the Test Procedures are shown in the table below. The set voltages were very close, if not exactly the same, as the measured voltages. Errors were likely due to DMM measurement since sometimes values would continue to change on the DMM after the probes were attached. This could lead to some measurement error.
@@ -135,7 +135,6 @@ Discussion Question 2: Do the instruments agree in part 4 for the oscilliscope/f
 
 When measuring the amplitude and frequency, the instruments didn't produce the exact same values. However, the difference was so small, it could be counted as negligible and it can be determined that the values were more or less the same. As we increased the frequency values, the amplitude of the sine wave decreased, when it should have remained the same since the voltage source did not change.
 
-Think about the lab exercises and make any interesting observation or analysis in this section too. Show that you learned something in this lab.
 
 # Conclusion
 
