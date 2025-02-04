@@ -7,7 +7,7 @@
 The goal of this lab is to learn how to use lab equipment including a function generator, digital multimeter, oscilloscope, and direct current power supply. We measured resistors and capacitors using the digital multimeter. We checked the voltage coming from the D.C. power supply with the digital multimeter to see how it aligned with the supposed output voltage. We connected a resistor to the function generator to produce a sine wave, then using the oscilloscope we observed the signal and measured the amplitude and frequency. Finally, we created a repository in github to store the lab reports. This report is stored in this repository as a wiki. Our group is certainly more familiar and accustomed to the lab equipment as a result of this lab period.
 
 # Materials
-4 Resistors: (10M&Omega;, 3.3k&Omega;, 150&Omega;, 2.2&Omega;) 4 Capacitors (10 mF, 1mF, 1.02nF, 0.22 nF), 10k&Omega; resistor
+4 Resistors: (10M&Omega;, 3.3k&Omega;, 150&Omega;, 2.2&Omega;) 4 Capacitors (10 mF, 1mF, 1.02nF, 0.22 nF)
 
 ![image](https://github.com/user-attachments/assets/0286002a-d320-4795-852a-907021ab1572)
 
