@@ -1,6 +1,7 @@
 # Laboratory Report for Lab 1 of BAE305 Spring 2025
 # Lab 1 – Well Equipped: Knowing Your Instruments
 * By: Abby Phillips and Audrey Suit
+* Submitted: February 3rd, 2025
 
 # Summary
 The goal of this lab is to learn how to use lab equipment including a function generator, digital multimeter, oscilloscope, and direct current power supply. We measured resistors and capacitors using the digital multimeter. We checked the voltage coming from the D.C. power supply with the digital multimeter to see how it aligned with the supposed output voltage. We connected a resistor to the function generator to produce a sine wave, then using the oscilloscope we observed the signal and measured the amplitude and frequency. Finally, we created a repository in github to store the lab reports. This report is stored in this repository as a wiki. Our group is certainly more familiar and accustomed to the lab equipment as a result of this lab period.
