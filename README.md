@@ -75,7 +75,7 @@ The results obtained for step 1 of the Test Procedures are shown in the table be
 |Brown Green Brown|750|5|749.9|Yes|
 |Red Red Gold|2.2|5|2.3|yes|
 
-The results obtained for step 2 of the Test Procedures are shown in the table below. The 22&mu;F capacitor was not in tolerance, all other capacitors were.
+The results obtained for step 2 of the Test Procedures are shown in the table below. The 22&mu;F and 102&mu;F capacitors were not in tolerance, all other capacitors were.
 
 **Capacitor Values Table**
 |Expected Value (&mu;F)|Tolerance(%)|Measured Value (&mu;F)|Within Tolerance|
@@ -110,7 +110,7 @@ The results obtained for step 4 of the Test Procedures are shown in the table be
 
 2a-Do the instruments agree with the expected value?
 
-Each capacitor value fell within the expected range for its capacitance, except for capacitor 4 which was out of range. This could be due to an innacurate reading of the capacitance, a damaged capacitor, or errors in DMM measurement. All resistance values fell within tolerance.
+Each capacitor value fell within the expected range for its capacitance, except for capacitor 3 and 4 which were out of range. This could be due to an innacurate reading of the capacitance, a damaged capacitor, or errors in DMM measurement. All resistance values fell within tolerance.
 
 2b- Does polarity affect the measurement of the electrolytic capacitor?
 
