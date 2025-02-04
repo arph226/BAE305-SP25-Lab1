@@ -34,15 +34,6 @@ You must include Schematics, Engineering Drawings, and Programming if appropriat
 13. Using GitHub, we created a new public repository titled "BAE305-SP25-Lab 1" and clarified "initialize this repository with a READM" was selected.
 14. Using Github, we navigated to the Wiki tab and created our lab report using the wiki page and the provided lab report template for this class.
 
-![A test image](https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg)
-
-Or perhaps a nicer smaller, centered image like this (using html):
-
-<p align="center">
-  <img src=https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg width=50%>
-</p>
-
-
 # Test Equipment
 1. Fluke 87 V DMM
 2. Oscilloscope Tektronix TS2012
