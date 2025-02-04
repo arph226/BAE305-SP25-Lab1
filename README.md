@@ -14,8 +14,6 @@ The goal of this lab is to learn how to use lab equipment including a function g
 
 # Assembly Procedures
 
-You must include Schematics, Engineering Drawings, and Programming if appropriate in this section.
-
 1. Using the Fluke DMM, we measure the actual resistance of each resistor by attaching each lead to one side of the resistor via its alligator clips. Using the resistor color code, we found the labeled resistance of each resistor.
 ![image](https://github.com/user-attachments/assets/e0337021-37bb-46b8-a0fe-ba46322ba3dc)
 4. Using the Fluke DMM, we measure the actual capacitance of each capacitor by attaching each lead to one side of the capacitor via its alligator clips, in the same way as the resistors.
