@@ -75,7 +75,7 @@ This section deals with the method for obtaining your results. Make sure to be c
  - We adjusted frequency and amplitude of the waveform to observe changes
 
 # Test Results
-The results obtained for step 1.1 of this lab are shown in the table below.
+The results obtained for step 1 of the Test Procedures are shown in the table below. All resistors were found to be in tolerance
 
 **Resistor Values Table**
 |Color Code|Expected Value (&Omega;)|Tolerance(%)|Measured Value (&Omega;)|Within Tolerance|
@@ -85,7 +85,7 @@ The results obtained for step 1.1 of this lab are shown in the table below.
 |Brown Green Brown|750|5|749.9|Yes|
 |Red Red Gold|2.2|5|2.3|yes|
 
-2. The results obtained for step 1.2 of this lab are shown in the table below.
+The results obtained for step 2 of the Test Procedures are shown in the table below. The 22&mu;F capacitor was not in tolerance, all other capacitors were.
 
 **Capacitor Values Table**
 |Expected Value (&mu;F)|Tolerance(%)|Measured Value (&mu;F)|Within Tolerance|
@@ -95,10 +95,28 @@ The results obtained for step 1.1 of this lab are shown in the table below.
 |102|10|1.34|?|
 |22|5|6.36|No|
 
-3. The code we wrote had several bugs but with some help we made it work. The values displayed for the sensor measurement were XX.XX for a physical distance of XX.XX
+The results obtained for step 3 of the Test Procedures are shown in the table below. The set voltages were very close, if not exactly the same, as the measured voltages. Errors were likely due to DMM measurement since sometimes values would continue to change on the DMM after the probes were attached. This could lead to some measurement error.
+
+**DC Power Source Voltage Output Table**
+|Set Voltage (V)|Measured Voltage (V)|
+|----------|----------|
+|1.56|1.494|
+|7.00|7.00|
+|12.00|12.01|
+|3.3|3.389|
+
+The results obtained for step 4 of the Test Procedures are shown in the table below. All values were close to one another, however were not the same as the frequency set by the function generator (2kHz), this is likely due to the age of the machine and calibration. The amplitude was similar to what we set the function generator (5V). The DMM did not read amplitude accurately as we could not measure the varying voltage accurately since it does not measure a range of values, only one value at a time. The measurement feature of the frequency generator is the most accurate since it can exactly read the amplitude peaks.
+
+**Function Generator Output Table**
+|Measurement Method|Frequency (kHz)|Amplitude (V)|
+|----------|----------|----------|
+|Cursors|4.81|5.04|
+|Counting Squares|5|5|
+|Measurement Features|4.66|5.25|
+|Fluke DMM|4.66|0.126|
+
 
 # Discussion
-Answer every the lab questions in this section. You should do it within a written paragraph like the next one.
 
 2a-Do the instruments agree with the expected value?
 
@@ -114,10 +132,7 @@ They agreed with each other as the voltage output shown on the D.C. Power Supply
 
 Discussion Question 2: Do the instruments agree in part 4 for the oscilliscope/function generator? Why?
 
-When measuring the amplitude and frequency, the instruments didn't produce the exact same values. However, the difference was so small, it could be counted as negligible and it can be determined that the values were more or less the same.
-
-
-Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
+When measuring the amplitude and frequency, the instruments didn't produce the exact same values. However, the difference was so small, it could be counted as negligible and it can be determined that the values were more or less the same. As we increased the frequency values, the amplitude of the sine wave decreased, when it should have remained the same since the voltage source did not change.
 
 Think about the lab exercises and make any interesting observation or analysis in this section too. Show that you learned something in this lab.
 
