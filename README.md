@@ -39,7 +39,7 @@ The goal of this lab is to learn how to use lab equipment including a function g
 4. DC Power Supply
 
 # Test Procedures
-This section deals with the method for obtaining your results. Make sure to be clear and concise such that a student next year can replicate the laboratory. How did you test the system to get your results.
+
 * To measure the equivalent resistance we placed the DMM in terminal X of R1 and terminal X on R3.
 * To measure the capacitance of the capacitor we used the DMM in mode X.
 1. Measure and verify the resistance of various resistors.
